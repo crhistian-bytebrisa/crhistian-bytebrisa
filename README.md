@@ -6,39 +6,35 @@
 ---
 
 ### 🧰 Tecnologías que manejo
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+<table align="center">
+  <tr>
+    <td align="center" style="padding:10px; border:2px solid #239120; border-radius:10px; background-color:#1e1e1e; width:120px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+      <p style="color:white; margin-top:10px; font-weight:bold;">C#</p>
+    </td>
 
-  <!-- C# -->
-  <div style="border: 2px solid #239120; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
-    <p style="color:white; margin-top:10px; font-weight:bold;">C#</p>
-  </div>
+    <td align="center" style="padding:10px; border:2px solid #512BD4; border-radius:10px; background-color:#1e1e1e; width:120px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET" />
+      <p style="color:white; margin-top:10px; font-weight:bold;">.NET</p>
+    </td>
 
-  <!-- .NET -->
-  <div style="border: 2px solid #512BD4; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET" />
-    <p style="color:white; margin-top:10px; font-weight:bold;">.NET</p>
-  </div>
+    <td align="center" style="padding:10px; border:2px solid #CC2927; border-radius:10px; background-color:#1e1e1e; width:120px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
+      <p style="color:white; margin-top:10px; font-weight:bold;">SQL Server</p>
+    </td>
 
-  <!-- SQL Server -->
-  <div style="border: 2px solid #CC2927; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
-    <p style="color:white; margin-top:10px; font-weight:bold;">SQL Server</p>
-  </div>
+    <td align="center" style="padding:10px; border:2px solid #F05033; border-radius:10px; background-color:#1e1e1e; width:120px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
+      <p style="color:white; margin-top:10px; font-weight:bold;">Git</p>
+    </td>
 
-  <!-- Git -->
-  <div style="border: 2px solid #F05033; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
-    <p style="color:white; margin-top:10px; font-weight:bold;">Git</p>
-  </div>
+    <td align="center" style="padding:10px; border:2px solid #ED8B00; border-radius:10px; background-color:#1e1e1e; width:120px;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" />
+      <p style="color:white; margin-top:10px; font-weight:bold;">Java</p>
+    </td>
+  </tr>
+</table>
 
-  <!-- Java -->
-  <div style="border: 2px solid #ED8B00; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" />
-    <p style="color:white; margin-top:10px; font-weight:bold;">Java</p>
-  </div>
-
-</div>
 
 
 
