@@ -6,7 +6,7 @@
 ---
 
 ### 🧰 Tecnologías que manejo
-<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
 
   <div align="center" style="border: 2px solid #239120; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
