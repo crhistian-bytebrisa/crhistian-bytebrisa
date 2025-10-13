@@ -6,21 +6,35 @@
 ---
 
 ### 🧰 Tecnologías que manejo
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" />
+<p align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+
+  <div align="center" style="border: 2px solid #239120; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
+    <p style="color:white; margin-top:5px;">C#</p>
+  </div>
+
+  <div align="center" style="border: 2px solid #512BD4; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET" />
+    <p style="color:white; margin-top:5px;">.NET</p>
+  </div>
+
+  <div align="center" style="border: 2px solid #CC2927; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
+    <p style="color:white; margin-top:5px;">SQL Server</p>
+  </div>
+
+  <div align="center" style="border: 2px solid #F05033; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
+    <p style="color:white; margin-top:5px;">Git</p>
+  </div>
+
+  <div align="center" style="border: 2px solid #ED8B00; border-radius: 10px; padding: 10px; width: 100px; background-color: #1e1e1e;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" />
+    <p style="color:white; margin-top:5px;">Java</p>
+  </div>
+
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
-</p>
 
 
 ---
