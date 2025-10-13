@@ -9,5 +9,7 @@ Estas son las tecnologías que utilizo normalmente:
 En este perfil tengo planeado subir no solo mis trabajos como estudiante, sino también mis proyectos personales y aquellos destinados a formar parte de mi portafolio.
 
 Mi información de contacto:
+
 Correo: j.crhistiantr@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/jhan-crhistian-terrero-ram%C3%ADrez-3532b8267/
