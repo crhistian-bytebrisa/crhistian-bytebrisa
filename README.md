@@ -5,7 +5,7 @@
 
 ---
 
-### 🧰 Tecnologías que manejo
+### 🧰 Stack Tecnologico
 <table align="center">
   <tr>
     <td width="120" align="center" style="padding:10px; border:2px solid #239120; border-radius:10px; background-color:#1e1e1e;">
