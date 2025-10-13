@@ -45,7 +45,6 @@
 ---
 
 ### 📂 Proyectos destacados
-- [🔗 ITLA Homework Programming 1](https://github.com/christian-bytebrisa/ITLA-HomeWork-Programming-1): Tareas y ejercicios de programación.  
 - [🔗 ITLA Programming 2 Homework](https://github.com/christian-bytebrisa/ITLA-Programing-2-HomeWork): Ejercicios prácticos de programación en C#.  
 
 ---
