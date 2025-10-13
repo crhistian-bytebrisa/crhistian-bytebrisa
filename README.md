@@ -1,5 +1,5 @@
 ## Buenas a todos/as soy Crhistian.
-Soy estudiante del Instituto Tecnológico de Las Américas (ITLA), un chico al que le gusta programar, leer y ver si logro explotar el código mío o el de otra gente (con su permiso, claro 😅).
+Soy estudiante del Instituto Tecnológico de Las Américas (ITLA), una persona a la que le gusta programar, leer y ver si logro explotar el código mío o el de otra gente (con su permiso, claro 😅).
 Actualmente curso el cuarto cuatrimestre en la institución y he tomado un curso de Desarrollo de Aplicaciones en INFOTEP, además de uno que otro diplomado en el ITLA.
 
 Estas son las tecnologías que utilizo normalmente:
