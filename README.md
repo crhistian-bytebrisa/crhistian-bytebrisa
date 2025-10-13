@@ -6,39 +6,39 @@
 ---
 
 ### 🧰 Tecnologías que manejo
-<p align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap;">
 
   <!-- C# -->
-  <div align="center" style="border: 2px solid #239120; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); transition: transform 0.2s;">
+  <div style="border: 2px solid #239120; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" alt="C#" />
     <p style="color:white; margin-top:10px; font-weight:bold;">C#</p>
   </div>
 
   <!-- .NET -->
-  <div align="center" style="border: 2px solid #512BD4; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); transition: transform 0.2s;">
+  <div style="border: 2px solid #512BD4; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" alt=".NET" />
     <p style="color:white; margin-top:10px; font-weight:bold;">.NET</p>
   </div>
 
   <!-- SQL Server -->
-  <div align="center" style="border: 2px solid #CC2927; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); transition: transform 0.2s;">
+  <div style="border: 2px solid #CC2927; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" alt="SQL Server" />
     <p style="color:white; margin-top:10px; font-weight:bold;">SQL Server</p>
   </div>
 
   <!-- Git -->
-  <div align="center" style="border: 2px solid #F05033; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); transition: transform 0.2s;">
+  <div style="border: 2px solid #F05033; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" alt="Git" />
     <p style="color:white; margin-top:10px; font-weight:bold;">Git</p>
   </div>
 
   <!-- Java -->
-  <div align="center" style="border: 2px solid #ED8B00; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; box-shadow: 2px 2px 10px rgba(0,0,0,0.5); transition: transform 0.2s;">
+  <div style="border: 2px solid #ED8B00; border-radius: 10px; padding: 15px; width: 100px; background-color: #1e1e1e; text-align:center;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" alt="Java" />
     <p style="color:white; margin-top:10px; font-weight:bold;">Java</p>
   </div>
 
-</p>
+</div>
 
 
 
