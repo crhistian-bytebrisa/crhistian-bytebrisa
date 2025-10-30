@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Christian Terrero
+# 👋 ¡Hola! Soy Jhan Christian Terrero Ramirez
 
 🎓 *Estudiante de Desarrollo de Software* en el Instituto Tecnológico de Las Américas (*ITLA*).  
 💻 Apasionado por la programación, la arquitectura de software y la creación de soluciones tecnológicas eficientes.
@@ -38,7 +38,7 @@
 ---
 
 ### 🚀 Actualmente estoy:
-- Cursando el cuarto cuatrimestre en ITLA  
+- Cursando el cuarto cuatrimestre del tecnologo de Desarrollo de Software en el ITLA  
 - Desarrollando proyectos personales con .NET y SQL Server  
 - Aprendiendo mas sobre *API RESTful y arquitectura limpia*
 
