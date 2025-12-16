@@ -24,10 +24,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
       <br><strong style="color:white;">Git</strong>
     </td>
-    <td width="120" align="center" style="padding:10px; border:2px solid #ED8B00; border-radius:10px; background-color:#1e1e1e;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" />
-      <br><strong style="color:white;">Java</strong>
-    </td>
   </tr>
 </table>
 
@@ -38,9 +34,9 @@
 ---
 
 ### 🚀 Actualmente estoy:
-- Cursando el cuarto cuatrimestre del tecnologo de Desarrollo de Software en el ITLA  
-- Desarrollando proyectos personales con .NET y SQL Server  
-- Aprendiendo mas sobre *API RESTful y arquitectura limpia*
+- Cursando el tecnologo en Desarrollo de Software del ITLA 
+- Desarrollando mi primer proyecto para mi portfolio con ASP.NET para el backend y TypeScript en conjunto con React para el frontend.
+- Desarrollando otro proyecto personal pero centrado mas para estudiantes del ITLA.
 
 ---
 
