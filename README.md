@@ -40,8 +40,8 @@
 
 ---
 
-### 📂 Proyectos destacados
-- [🔗 ITLA Programming 2 Homework](https://github.com/christian-bytebrisa/ITLA-Programing-2-HomeWork): Ejercicios prácticos de programación en C#.  
+<!--### Proyectos destacados-->
+<!-- [🔗 MediAgenda]([(https://github.com/crhistian-bytebrisa/MediAgenda)]): API de gestion Medica.  -->
 
 ---
 
