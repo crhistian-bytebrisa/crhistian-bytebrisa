@@ -43,8 +43,6 @@
 <!--### Proyectos destacados-->
 <!-- [🔗 MediAgenda]([(https://github.com/crhistian-bytebrisa/MediAgenda)]): API de gestion Medica.  -->
 
----
-
 ### 📫 Contáctame
 📧 [Correo](mailto:j.christiantr@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/jhan-christian-terrero-ram%C3%ADrez-3532b8267/)  
