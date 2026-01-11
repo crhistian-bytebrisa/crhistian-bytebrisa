@@ -35,8 +35,8 @@
 
 ### 🚀 Actualmente estoy:
 - Cursando el tecnologo en Desarrollo de Software del ITLA 
-- Desarrollando mi primer proyecto para mi portfolio con ASP.NET para el backend y TypeScript en conjunto con React para el frontend [Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda) .
-- Desarrollando otro proyecto personal pero centrado mas para estudiantes del ITLA [Repositorio](https://github.com/crhistian-bytebrisa/AppItla).
+- Desarrollando mi primer proyecto para mi portfolio con ASP.NET para el backend y TypeScript en conjunto con React para el frontend.
+- Desarrollando otro proyecto personal pero centrado mas para estudiantes del ITLA.
 ---
 
 <!--### Proyectos destacados-->
