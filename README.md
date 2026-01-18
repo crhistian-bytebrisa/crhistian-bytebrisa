@@ -35,12 +35,12 @@
 
 ### 🚀 Actualmente estoy:
 - Cursando el tecnologo en Desarrollo de Software del ITLA 
-- Desarrollando mi primer proyecto para mi portfolio con ASP.NET para el backend y TypeScript en conjunto con React para el frontend.
 - Desarrollando otro proyecto personal pero centrado mas para estudiantes del ITLA.
 ---
 
-<!--### Proyectos destacados-->
-<!-- [🔗 MediAgenda]([(https://github.com/crhistian-bytebrisa/MediAgenda)]): API de gestion Medica.  -->
+### Proyectos destacados
+#### 🏥MediAgenda ([Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda)).
+- Una API de gestión medica, con manejo de consultas, medicamentos, analisís y notas de pacientes.
 
 ### 📫 Contáctame
 📧 [Correo](mailto:j.christiantr@gmail.com)  
