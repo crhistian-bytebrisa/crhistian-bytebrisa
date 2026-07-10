@@ -41,7 +41,7 @@
 ### Proyectos destacados
 #### 🏥MediAgenda ([Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda)).
 - Una API de gestión medica, con manejo de consultas, medicamentos, analisís y notas de pacientes.
-- [Version Desplegada con Swagger en el Host de Somee](https://mediagenda2.somee.com/swagger/index.html)
+- [Version Desplegada con Swagger en el Host de Somee](http://mediagenda2.somee.com/swagger/index.html)
 
 ### 📫 Contáctame
 📧 [Correo](mailto:j.christiantr@gmail.com)  
