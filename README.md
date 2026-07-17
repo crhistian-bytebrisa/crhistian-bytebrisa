@@ -8,25 +8,42 @@
 ### 🧰 Stack Tecnologico
 <table align="center">
   <tr>
-    <td width="120" align="center" style="padding:10px; border:2px solid #239120; border-radius:10px; background-color:#1e1e1e;">
+    <td width="120" align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" />
-      <br><strong style="color:white;">C#</strong>
+      <br><strong>C#</strong>
     </td>
-    <td width="120" align="center" style="padding:10px; border:2px solid #512BD4; border-radius:10px; background-color:#1e1e1e;">
+    <td width="120" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" />
+      <br><strong>TS</strong>
+    </td>
+    <td width="120" align="center">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" />
-      <br><strong style="color:white;">.NET</strong>
+      <br><strong>.NET</strong>
     </td>
-    <td width="120" align="center" style="padding:10px; border:2px solid #CC2927; border-radius:10px; background-color:#1e1e1e;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
-      <br><strong style="color:white;">SQL Server</strong>
+    <td width="120" align="center">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" />
+      <br><strong>React</strong>
     </td>
-    <td width="120" align="center" style="padding:10px; border:2px solid #F05033; border-radius:10px; background-color:#1e1e1e;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-      <br><strong style="color:white;">Git</strong>
-    </td>
-    <td width="120" align="center" style="padding:10px; border:2px solid #239120; border-radius:10px; background-color:#1e1e1e;">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-      <br><strong style="color:white;">Docker</strong>
+  </tr>
+
+  <tr>
+    <td colspan="4" align="center">
+      <table>
+        <tr>
+          <td width="120" align="center">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
+            <br><strong>SQL Server</strong>
+          </td>
+          <td width="120" align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
+            <br><strong>Git</strong>
+          </td>
+          <td width="120" align="center">
+            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+            <br><strong>Docker</strong>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
