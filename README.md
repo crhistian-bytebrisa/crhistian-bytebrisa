@@ -24,6 +24,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
       <br><strong style="color:white;">Git</strong>
     </td>
+    <td width="120" align="center" style="padding:10px; border:2px solid #239120; border-radius:10px; background-color:#1e1e1e;">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
+      <br><strong style="color:white;">Docker</strong>
+    </td>
   </tr>
 </table>
 
