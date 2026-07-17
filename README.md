@@ -48,15 +48,6 @@
   </tr>
 </table>
 
-
-
-
-
----
-
-### 🚀 Actualmente estoy:
-- Cursando el tecnologo en Desarrollo de Software del ITLA 
-- Desarrollando otro proyecto personal pero centrado mas para estudiantes del ITLA.
 ---
 
 ### Proyectos destacados
@@ -68,4 +59,21 @@
 📧 [Correo](mailto:j.christiantr@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/jhan-christian-terrero-ram%C3%ADrez-3532b8267/)  
 🌍 República Dominicana  
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crhistian-bytebrisa&show_icons=true&theme=github_dark&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crhistian-bytebrisa&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=crhistian-bytebrisa&theme=github-dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=crhistian-bytebrisa&theme=github-dark-blue&hide_border=true" />
+</p>
 
