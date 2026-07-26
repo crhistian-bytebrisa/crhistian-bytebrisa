@@ -56,7 +56,7 @@
 
 ### 📫 Contáctame
 📧 [Correo](mailto:j.christiantr@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jhan-christian-terrero-ram%C3%ADrez-3532b8267/)  
+💼 [LinkedIn](https://www.linkedin.com/in/jcrhistiantr/)  
 🌍 República Dominicana  
 
 ---
