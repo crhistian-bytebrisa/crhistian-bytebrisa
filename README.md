@@ -1,7 +1,6 @@
-# 👋 ¡Hola! Soy Jhan Christian Terrero Ramirez
+# Jhan Christian Terrero Ramirez
 
-🎓 *Estudiante de Desarrollo de Software* en el Instituto Tecnológico de Las Américas (*ITLA*).  
-💻 Apasionado por la programación, la arquitectura de software y la creación de soluciones tecnológicas eficientes.
+💻 *Programador independiente* y *estudiante de desarrollo de software* tengo experiencia en el desarrollo de aplicaciones de escritorio, API REST. Desarrollo aplicaciones personalizadas para clientes mientras hago algunos proyectos independientes aca en GitHub. 
 
 ---
 
@@ -50,7 +49,7 @@
 
 ---
 
-### Proyectos destacados
+### Proyectos publicos
 #### 🏥MediAgenda ([Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda)).
 - Una API de gestión medica, con manejo de consultas, medicamentos, analisís y notas de pacientes.
 - [Version Desplegada con Swagger en el Host de Somee](http://mediagenda2.somee.com/swagger/index.html)
