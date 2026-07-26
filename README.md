@@ -1,6 +1,6 @@
 # Jhan Christian Terrero Ramirez
 
-💻 *Programador independiente* y *estudiante de desarrollo de software* tengo experiencia en el desarrollo de aplicaciones de escritorio, API REST. Desarrollo aplicaciones personalizadas para clientes mientras hago algunos proyectos independientes aca en GitHub. 
+💻 *Programador independiente* y *estudiante de desarrollo de software*, tengo experiencia en el desarrollo de aplicaciones de escritorio, API REST. Desarrollo aplicaciones personalizadas para clientes mientras hago algunos proyectos independientes aca en GitHub. 
 
 ---
 
