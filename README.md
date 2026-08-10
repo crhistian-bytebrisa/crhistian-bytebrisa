@@ -19,10 +19,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" />
       <br><strong>.NET</strong>
     </td>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" width="50" />
-      <br><strong>Angular</strong>
-    </td>
   </tr>
 
   <tr>
