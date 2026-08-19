@@ -57,18 +57,3 @@
 
 ---
 
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=crhistian-bytebrisa&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=crhistian-bytebrisa&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=crhistian-bytebrisa&theme=github-dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=crhistian-bytebrisa&theme=github-dark-blue&hide_border=true" />
-</p>
-
