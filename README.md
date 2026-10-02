@@ -1,59 +1,66 @@
-# Jhan Christian Terrero Ramirez
+<h1 align="center">Jhan Christian Terrero Ramírez</h1>
 
-💻 *Programador independiente* y *estudiante de desarrollo de software*, tengo experiencia en el desarrollo de aplicaciones de escritorio, API REST. Desarrollo aplicaciones personalizadas para clientes mientras hago algunos proyectos independientes aca en GitHub. 
+<p align="center">
+  <b>Software Developer · C# / .NET & Java / Spring Boot</b><br>
+  📍 República Dominicana · 🎓 Estudiante de Software · 💼 Freelance
+</p>
 
----
-
-### 🧰 Stack Tecnologico
-<table align="center">
-  <tr>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" />
-      <br><strong>C#</strong>
-    </td>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" />
-      <br><strong>TS</strong>
-    </td>
-    <td width="120" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" />
-      <br><strong>.NET</strong>
-    </td>
-  </tr>
-
-  <tr>
-    <td colspan="4" align="center">
-      <table>
-        <tr>
-          <td width="120" align="center">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" />
-            <br><strong>SQL Server</strong>
-          </td>
-          <td width="120" align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" />
-            <br><strong>Git</strong>
-          </td>
-          <td width="120" align="center">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" />
-            <br><strong>Docker</strong>
-          </td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:j.christiantr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/jcrhistiantr/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 ---
 
-### Proyectos publicos
-#### 🏥MediAgenda ([Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda)).
-- Una API de gestión medica, con manejo de consultas, medicamentos, analisís y notas de pacientes.
-- [Version Desplegada con Swagger en el Host de Somee](http://mediagenda2.somee.com/swagger/index.html)
+## 👋 Sobre mí
 
-### 📫 Contáctame
-📧 [Correo](mailto:j.christiantr@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/jcrhistiantr/)  
-🌍 República Dominicana  
+Desarrollador de software enfocado en **APIs REST robustas**, aplicaciones de escritorio y servicios webs.
+Vengo del ecosistema **.NET**, donde desarrollé soluciones completas para clientes, y
+actualmente estoy **ampliando mi stack hacia Java y Spring Boot** para ser un
+desarrollador versátil en ambos mundos.
+
+- 🔭 Construyendo: APIs REST con **Spring Boot** y **ASP.NET Core**
+- 🌱 Fortaleciendo: **React** y **TypeScript** para mejorar mi lado frontend
 
 ---
 
+## 🧰 Stack Tecnológico
+
+### ⚙️ Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### 🎨 Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### 🗄️ Datos & Herramientas
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🏥 MediAgenda · `C#` `ASP.NET Core` `SQL Server`
+API REST para la gestión médica integral.
+- Control de consultas, recetas, órdenes de análisis clínicos y notas de seguimiento por paciente
+- 🔗 [Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda) · 📘 [Swagger en vivo](http://mediagenda2.somee.com/swagger/index.html)
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=crhistian-bytebrisa&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=crhistian-bytebrisa&layout=compact&theme=tokyonight&hide_border=true" alt="Top lenguajes" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Primero hacer que funcione, luego hacerlo limpio, luego hacerlo rápido."</i>
+</p>
