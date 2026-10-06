@@ -44,14 +44,6 @@ desarrollador versátil en ambos mundos.
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 🏥 MediAgenda · `C#` `ASP.NET Core` `SQL Server`
-API REST para la gestión médica integral.
-- Control de consultas, recetas, órdenes de análisis clínicos y notas de seguimiento por paciente
-- 🔗 [Repositorio](https://github.com/crhistian-bytebrisa/MediAgenda) · 📘 [Swagger en vivo](http://mediagenda2.somee.com/swagger/index.html)
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
