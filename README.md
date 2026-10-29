@@ -19,8 +19,8 @@ Vengo del ecosistema **.NET**, donde desarrollé soluciones completas para clien
 actualmente estoy **ampliando mi stack hacia Java y Spring Boot** para ser un
 desarrollador versátil en ambos mundos.
 
-- 🔭 Construyendo: APIs REST con **Spring Boot** y **ASP.NET Core**
-- 🌱 Fortaleciendo: **React** y **TypeScript** para mejorar mi lado frontend
+- 🔭 Construyendo: APIs REST con **Spring Boot** y **ASP.NET Core**.
+- 🌱 Fortaleciendo: **Angular** y **TypeScript** para mejorar mi lado frontend.
 
 ---
 
